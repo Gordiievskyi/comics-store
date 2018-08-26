@@ -1,3 +1,6 @@
 {
-    "name": "viacheslav"
+    "name": "viacheslav",
+    "dependencies": {
+        "@google-cloud/storage": "^1.7.0"
+    }
 }
